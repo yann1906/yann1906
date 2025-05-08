@@ -7,7 +7,7 @@ Software Development Engineer
 I'm a software development engineer from France 💻. I learned computer development at @Epitech Rennes for 5 years. During these 5 years I also studied in Berlin as an international student for 1 year ✈️
 
 * 🌍  I'm based in Toulouse
-* ✉️  You can contact me at [yann.peu@epitech.eu](mailto:yann.peu@epitech.eu)
+* ✉️  You can contact me at [yannpeu.pro@gmail.com](mailto:yannpeu.pro@gmail.com)
 * 🧠  I'm learning ReactJs / Typescript / Google app script
 * ⚡  Currently working for Airbus as a consultant
 
